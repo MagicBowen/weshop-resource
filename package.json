@@ -1,0 +1,20 @@
+{
+    "name": "westore",
+    "version": "1.0.0",
+    "description": "westore static resource home",
+    "main": "server.js",
+    "scripts": {
+        "start": "node --use_strict server.js"
+    },
+    "author": "ai.dada",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magicbowen/westore.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0",
+        "koa-router": "7.0.0",
+        "mz": "2.4.0"
+    }
+}

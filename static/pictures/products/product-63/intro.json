@@ -1,0 +1,41 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "2.jpg"
+    }
+  ],
+  "description": "Federica Tosi 黑色 羊毛混纺 和服样式连衣裙",
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ],
+  "quantity": {
+    "38": 131,
+    "40": 14
+  },
+  "price": 420,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "女士连衣裙",
+  "brandName": "Federica Tosi",
+  "color": "black",
+  "discount": 0.6
+}

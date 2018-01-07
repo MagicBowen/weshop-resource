@@ -1,0 +1,46 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "3.jpg"
+    }
+  ],
+  "description": "海军蓝色羊毛西服，经典夹克纽扣开襟，长袖，正面有两个口袋，标签内有品牌标志，正面有裤扣和拉链前襟，正面有两个口袋，背面有两个口袋，经典款式 ，标签内的品牌标志",
+  "tags": [
+    "male",
+    "coat",
+    "suit"
+  ],
+  "quantity": {
+    "50": 76
+  },
+  "price": 865,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士西装套装",
+  "brandName": "Doppiaa",
+  "color": "blue",
+  "discount": 0.52
+}

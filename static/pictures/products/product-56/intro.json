@@ -1,0 +1,73 @@
+{
+  "typeId": "pants56",
+  "sizeType": "America",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "face.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "scene"
+      ],
+      "name": "f-s.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "f-m.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "f-m-1.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "b.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "model",
+        "side"
+      ],
+      "name": "r-m.jpg"
+    }
+  ],
+  "description": "Tory Burch(汤丽柏琦) 蓝色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
+  "tags": [
+    "female",
+    "pants",
+    "trouser"
+  ],
+  "quantity": {
+    "4": 50,
+    "8": 115,
+    "12": 27,
+    "6": 102,
+    "10": 4
+  },
+  "price": 265,
+  "transport": {
+    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 20,
+      "min": 16
+    }
+  },
+  "type": "女士西裤",
+  "brandName": "Tory Burch",
+  "color": "blue",
+  "discount": 0.65
+}

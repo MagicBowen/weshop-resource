@@ -1,0 +1,47 @@
+{
+  "typeId": null,
+  "sizeType": "Standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "3.jpg"
+    }
+  ],
+  "description": "Tory Burch 皮大衣，正面钩扣，长袖，正面有两个口袋，内部标签上有品牌标志",
+  "tags": [
+    "female",
+    "coat",
+    "overcoat",
+    "fur_coat"
+  ],
+  "quantity": {
+    "S": 14
+  },
+  "price": 2350,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士大衣",
+  "brandName": "Tory Burch",
+  "color": "brown",
+  "discount": 0.56
+}

@@ -1,0 +1,40 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "2.jpg"
+    }
+  ],
+  "description": "Balmain 黑色 真丝混纺 饰钉连衣裙",
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ],
+  "quantity": {
+    "38": 97
+  },
+  "price": 1863,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士连衣裙",
+  "brandName": "Balmain",
+  "color": "black",
+  "discount": 0.65
+}

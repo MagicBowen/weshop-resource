@@ -1,0 +1,37 @@
+{
+  "typeId": null,
+  "sizeType": "standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front.jpg"
+    }
+  ],
+  "description": "Tory Burch（汤丽柏琦）羊毛羊驼毛混纺 黑色吊带裙。成分：57% 羊驼毛 43% 纯羊毛",
+  "tags": [
+    "female",
+    "dress",
+    "skirt"
+  ],
+  "quantity": {
+    "M": 34,
+    "L": 61,
+    "S": 124,
+    "XS": 32
+  },
+  "price": 560,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 24,
+      "min": 17
+    }
+  },
+  "type": "吊带裙",
+  "brandName": "Tory Burch",
+  "color": "black",
+  "discount": 0.65
+}

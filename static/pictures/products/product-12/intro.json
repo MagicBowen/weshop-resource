@@ -1,0 +1,55 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "front-1.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "model"
+      ],
+      "name": "back.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "close-up.jpg"
+    }
+  ],
+  "description": "Max Mara 驼色 羊毛混纺 女士大衣。成分：57% 羊驼毛、成分：43% 羊毛",
+  "tags": [
+    "female",
+    "coat",
+    "overcoat",
+    "loose_coat"
+  ],
+  "quantity": {
+    "40": 31
+  },
+  "price": 2500,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "大衣",
+  "brandName": "Max Mara",
+  "color": "caramel",
+  "discount": 0.6
+}

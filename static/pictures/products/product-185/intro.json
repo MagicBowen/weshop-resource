@@ -1,0 +1,60 @@
+{
+  "typeId": null,
+  "sizeType": "France",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "left",
+        "side",
+        "front",
+        "model"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "model",
+        "right",
+        "side"
+      ],
+      "name": "4.jpg"
+    }
+  ],
+  "description": "Paco Rabanne 黑色 饰扣眼九分裤。正面拉链开合，九分长，银色扣眼。成分：聚乙烯 100%、洗涤说明：机洗",
+  "tags": [
+    "female",
+    "pants",
+    "slacks"
+  ],
+  "quantity": {
+    "38": 117
+  },
+  "price": 715,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士九分裤",
+  "brandName": "Paco Rabanne",
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "black",
+  "discount": 0.6
+}

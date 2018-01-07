@@ -1,0 +1,42 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "2.jpg"
+    }
+  ],
+  "description": "Federica tosi黑色女士紧身皮裤",
+  "tags": [
+    "female",
+    "pants",
+    "skinny_trousers",
+    "leather_pants"
+  ],
+  "quantity": {
+    "40": 16,
+    "42": 6
+  },
+  "price": 753,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "女士紧身裤",
+  "brandName": "Federica Tosi",
+  "color": "black",
+  "discount": 0.6
+}

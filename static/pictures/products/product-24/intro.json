@@ -1,0 +1,46 @@
+{
+  "typeId": null,
+  "sizeType": "standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "back.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "close-up.jpg"
+    }
+  ],
+  "description": "Celine 红色 羊绒连身衣。成分：100% 羊绒、洗涤说明：干洗",
+  "tags": [
+    "female",
+    "sweater",
+    "coat"
+  ],
+  "quantity": {
+    "L": 44
+  },
+  "price": 620,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "羊绒连身衣",
+  "brandName": "Celine",
+  "color": "red",
+  "discount": 0.58
+}

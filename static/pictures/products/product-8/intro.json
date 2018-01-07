@@ -1,0 +1,60 @@
+{
+  "typeId": null,
+  "sizeType": "standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front.jpg"
+    },
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front-1.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "back.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "front-i.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "close-up.jpg"
+    }
+  ],
+  "description": "Equipment 白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
+  "tags": [
+    "female",
+    "blouse",
+    "coat"
+  ],
+  "quantity": {
+    "L": 27,
+    "M": 45
+  },
+  "price": 369,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "衬衫",
+  "brandName": "Equipment",
+  "color": "white",
+  "discount": 0.6
+}

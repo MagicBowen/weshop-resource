@@ -1,0 +1,44 @@
+{
+  "typeId": null,
+  "sizeType": "America",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "front.jpg"
+    },
+    {
+      "tags": [
+        "back"
+      ],
+      "name": "back.jpg"
+    }
+  ],
+  "description": "J Brand 女士 牛仔短裤。表面 成分：100% 牛仔布 洗涤说明：机洗",
+  "tags": [
+    "female",
+    "short",
+    "jeans"
+  ],
+  "quantity": {
+    "4": 49,
+    "8": 87,
+    "12": 124,
+    "6": 101,
+    "10": 115
+  },
+  "price": 174,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "牛仔短裤",
+  "brandName": "J Brand",
+  "color": "blue",
+  "discount": 0.81
+}
