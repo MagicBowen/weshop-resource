@@ -27,8 +27,8 @@ async function fillImageToCtx(ctx, image) {
     }    
 }
 
-router.get('/image/:name', async (ctx, next) => {
-    var name = ctx.params.name;
+router.get('/image', async (ctx, next) => {
+    var name = ctx.query.name;
     var image = `./static/pictures/images/${name}`;
     await fillImageToCtx(ctx, image);
 });
