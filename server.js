@@ -52,5 +52,5 @@ router.get('/product/image', async (ctx, next) => {
 // add router
 app.use(router.routes());
 
-app.listen('0.0.0.0', 8080);
+app.listen(8080, '0.0.0.0');
 console.log('server started at 0.0.0.0:8080...');
