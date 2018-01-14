@@ -88,5 +88,35 @@
   "brandName": "Saint Laurent",
   "brandID": "NW0S0E70XRL",
   "color": "purple",
-  "discount": 0.57
+  "discount": 0.57,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "cow_leather": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "slim",
+      "height": 14
+    },
+    "height":"low",
+    "tip": "fish_mouth",
+    "closure": {
+      "style":"buckle",
+      "position": "top"
+    },
+    "feature": 
+    [
+    ]
+  }    
 }

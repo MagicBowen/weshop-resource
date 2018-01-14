@@ -36,5 +36,25 @@
   "type": "男士大衣",
   "brandName": "Balmain",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "lapel",
+    "season": "winter",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
+    "length": "long",
+    "composition":
+    {
+      "wool": 1
+    },
+    "feature":
+    [
+    ]
+  }  
 }

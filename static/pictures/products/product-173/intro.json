@@ -16,7 +16,7 @@
       "name": "2.jpg"
     }
   ],
-  "description": "连帽夹克 可调节的抽绳帽 罗纹袖口 洗涤说明：手洗颜色：黑色",
+  "description": "连帽夹克 可调节的抽绳帽 罗纹袖口 洗涤说明：手洗 颜色：黑色",
   "tags": [
     "male",
     "coat",
@@ -38,5 +38,23 @@
   "type": "男士夹克外套",
   "brandName": "Lanvin",
   "color": "black",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "hand_wash",
+    "sleeves": "long",
+    "collar": "hooded",
+    "season": "autumn_winter",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "feature":
+    [
+    ]
+  }  
 }

@@ -45,5 +45,46 @@
   "type": "男士休闲裤",
   "brandName": "Les Hommes",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "front_pocket":
+    {
+      "number":2,
+      "tag":
+      ["zip"]
+    },
+    "back_pocket":
+    {
+      "number": 2,
+      "tag":[
+        "metal_plate_brand_logo"
+      ]
+    },
+    "waist":"drawstring",
+    "bottom_cuff":{
+      "tag":
+      [
+        "elastic"
+      ]
+    },
+    "leg": 
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "closure": 
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
+    "composition":
+    {
+      "cotton": 1
+    },
+    "feature":
+    [
+
+    ]
+  }  
 }

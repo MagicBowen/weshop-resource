@@ -66,5 +66,33 @@
   "type": "女士连衣裙",
   "brandName": "Marni",
   "color": "pink",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"short",
+    "collar": "high",
+    "length": "mid_calf",
+    "season": "summer",
+    "waist": "none",
+    "closure":
+    {
+      "style": "button",
+      "position": "back"
+    },
+    "hem":"straight",
+    "composition":
+    {
+      "surface": {
+        "viscose": 1,
+        "acetate_fiber": 1
+      },
+      "lining": {
+        "silk": 1 
+      }   
+    },
+    "feature":
+    [
+    ]
+  }  
 }

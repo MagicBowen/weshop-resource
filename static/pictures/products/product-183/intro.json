@@ -60,5 +60,33 @@
   "brandName": "Paco Rabanne",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "black",
-  "discount": 0.68
+  "discount": 0.68,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"long",
+    "collar": "vertical",
+    "length": "mid_calf",
+    "season": "autumn_winter",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
+    "composition":
+    {
+      "surface": 
+      {
+        "wool": 0.91,
+        "elastane": 0.05,
+        "polyamide": 0.04
+      },
+      "lining":
+      {
+        "cotton": 1
+      }
+    },
+    "feature":
+    [
+    ]
+  }  
 }

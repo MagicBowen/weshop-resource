@@ -56,5 +56,32 @@
   "type": "女士夹克",
   "brandName": "Saint Laurent",
   "color": "black_white",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "vertical",
+    "season": "autumn_winter",
+    "closure":
+    {
+      "style": "snap_button",
+      "position": "front"
+    },
+    "composition":
+    {
+      "surface":
+      {
+        "cow_leather": 1,
+        "wool": 1
+      },
+      "lining":
+      {
+        "cotton": 1
+      }
+    },
+    "feature":
+    [
+    ]
+  }  
 }

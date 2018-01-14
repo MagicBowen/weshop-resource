@@ -63,5 +63,36 @@
   "type": "女士短靴",
   "brandName": "Balmain",
   "color": "black",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 3
+    },
+    "height":"ankle",
+    "tip": "round",
+    "closure":
+    {
+      "style": "buckle",
+      "position": "top"
+    },
+    "feature": 
+    [
+    ]
+  }    
 }

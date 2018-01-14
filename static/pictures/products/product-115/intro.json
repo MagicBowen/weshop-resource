@@ -87,5 +87,31 @@
   "type": "女士裙子",
   "brandName": "Gucci",
   "color": "multicolor",
-  "discount": 0.55
+  "discount": 0.55,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "mid_long",
+    "season": "summer",
+    "waist": "elastic",
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "hem": "half_circle",
+    "composition":
+    {
+      "surface": {
+        "silk": 1
+      },
+      "lining": {
+        "silk": 0.29,
+        "acetate_fiber": 0.71
+      }   
+    },
+    "feature":
+    [
+      "printed"
+    ]
+  }  
 }

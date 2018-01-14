@@ -60,5 +60,33 @@
   "type": "女士板鞋",
   "brandName": "Philipp Plein",
   "color": "white",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": {
+      "style": "flat",
+      "height": null
+    },
+    "tip": "round",
+    "closure": {
+      "style":"shoelace",
+      "position": "top"
+    },
+    "feature": 
+    [
+    ]
+  }    
 }

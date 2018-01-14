@@ -51,5 +51,26 @@
   "type": "女士短裙",
   "brandName": "Fendi",
   "color": "beige",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "mid_calf",
+    "season": "summer",
+    "waist": "elastic",
+    "closure":
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
+    "hem": "slant",
+    "composition":
+    {
+      "silk": 1 
+    },
+    "feature":
+    [
+      "printed"
+    ]
+  }  
 }

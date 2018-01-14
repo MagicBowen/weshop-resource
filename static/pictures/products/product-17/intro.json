@@ -91,5 +91,30 @@
   "brandName": "Dolce & Gabanna",
   "brandID": "CK0150AH290",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null,
+      "sole": null
+    },
+    "heel": null,
+    "height":"low",
+    "wash": "special_clean",
+    "closure":
+    {
+      "style": "shoelace",
+      "postion": "top"
+    },
+    "tip": "round",
+    "feature": 
+    [
+      "love_patch"
+    ]
+  }    
 }

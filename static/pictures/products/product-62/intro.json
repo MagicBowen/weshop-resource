@@ -45,5 +45,25 @@
   "type": "男士外套",
   "brandName": "Gucci",
   "color": "black",
-  "discount": 0.67
+  "discount": 0.67,
+  "specifications": {
+    "wash": "dry_clean",
+    "lapels": "notched",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 2
+    },
+    "vents": "one_split",
+    "sleeves_buttons": 4,
+    "composition":{
+      "surface": {
+        "mohair": 0.16,
+        "wool":0.84
+      },
+      "lining": 
+      {
+        "viscose": 1
+      }
+    } 
+  }
 }

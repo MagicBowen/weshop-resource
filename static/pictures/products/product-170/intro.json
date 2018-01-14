@@ -58,5 +58,38 @@
   "brandName": "Lanvin",
   "brandID": "RMS10235S00401als",
   "color": "grey",
-  "discount": 0.52
+  "discount": 0.52,
+  
+  "specifications": 
+    {
+      "composition":
+      {
+        "surface": 
+        {
+          "cow_leather": 1
+        },
+        "lining": null
+      },
+      "size": 
+      {
+        "depth": 6,
+        "width": 20,
+        "height": 13,
+        "strap": 55,
+        "handle": 28
+      },
+    "closure": {
+      "style":"flip",
+      "position": "top"
+    },
+      "strap":[
+        "removable",
+        "adjustable"
+      ],
+      "feature":[
+        "zip_pocket"
+
+      ]
+  
+    }
 }

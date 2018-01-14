@@ -56,5 +56,25 @@
   "type": "衬衫",
   "brandName": "Equipment",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications":
+  {
+    "composition": 
+    {
+      "silk":1
+    },
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring",
+    "closure":
+    { 
+      "style": "button",
+      "position": "front"
+    },
+    "feature": 
+    [
+      "printed"
+    ]
+  }
 }

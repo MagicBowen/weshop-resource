@@ -45,5 +45,28 @@
   "type": "男士夹克",
   "brandName": "Philipp Plein",
   "color": "black",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"long",
+    "collar": "vertical",
+    "season": "spring_autumn",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
+    "composition":
+    {
+      "surface": {
+        "polyester": 1
+      },
+      "lining": {
+        "polyamide": 1 
+      }   
+    },
+    "feature":
+    [
+    ]
+  }  
 }

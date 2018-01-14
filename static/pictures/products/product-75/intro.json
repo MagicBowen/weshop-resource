@@ -62,5 +62,35 @@
   "type": "男士工装长裤",
   "brandName": "Faith Connexion",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "machine",
+
+    "season": "all_season",
+    "waist": "belt",
+    "closure": 
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "skinny"
+    },
+    "composition":
+    {
+      "surface": 
+      {
+        "cotton": 0.97,
+        "spandex": 0.03
+      },
+      "lining":null
+    },
+    "feature":
+    [
+      "cargo"
+    ]
+  }  
 }

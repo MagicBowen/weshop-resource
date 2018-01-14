@@ -37,5 +37,26 @@
   "type": "女士连衣裙",
   "brandName": "Equipment",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"long",
+    "collar": "lapel",
+    "length": "long",
+    "season": "spring_summer",
+    "waist": "none",
+    "closure": {
+      "style":"button",
+      "position": "front"
+    },
+    "hem": "straight",
+    "composition":
+    {
+      "silk": 1 
+    },
+    "feature":
+    [
+    ]
+  }  
 }

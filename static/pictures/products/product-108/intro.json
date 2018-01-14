@@ -91,5 +91,24 @@
   "type": "女士长裤",
   "brandName": "Calvin Klein",
   "color": "purple",
-  "discount": 0.48
+  "discount": 0.48,
+  "specifications": 
+  {
+    "composition":
+    {
+      "wool": 1
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "waist":"belt",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
+    "wash": "dry_clean"  
+  }
 }

@@ -61,5 +61,32 @@
   "type": "男士运动长裤",
   "brandName": "Moncler",
   "color": "grey",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "season": "all_season",
+    "waist": "elastic",
+    "closure": 
+    {
+      "style":"drawstring",
+      "position": "front"
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "composition":
+    {
+      "surface": 
+      {
+        "cotton": 1
+      },
+      "lining":null
+    },
+    "feature":
+    [
+    ]
+  }  
 }

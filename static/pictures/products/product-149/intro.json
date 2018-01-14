@@ -53,5 +53,25 @@
   "type": "男士休闲衬衫",
   "brandName": "Calvin Klein",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "lapel",
+    "season": "spring_autumn",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 1
+      },
+      "lining": null
+    }
+  }
 }

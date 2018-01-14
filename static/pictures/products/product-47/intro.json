@@ -55,5 +55,24 @@
   "type": "男士衬衫",
   "brandName": "Kenzo",
   "color": "blue",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "lapel",
+    "season": "spring_summer",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "feature":
+    [
+    ]
+  }  
 }
