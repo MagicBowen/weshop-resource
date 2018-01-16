@@ -55,7 +55,7 @@
   {
     "composition":
     {
-      "sufface": 
+      "surface": 
       {
         "silk": 1,
         "viscose": 0.45,
@@ -73,11 +73,7 @@
     "wash": "dry_clean",
     "season": "spring_summer",
     "hem": "half_circle",
-    "waist":
-    {
-      "position": "high",
-      "style": "elastic"
-    },
+    "waist":"high_elastic",
     "closure": 
     {
       "style": "pullover"

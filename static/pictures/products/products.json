@@ -1346,7 +1346,7 @@
             "acetate_fiber": 0.55,
             "viscose": 0.45
           },
-          "sufface": {
+          "surface": {
             "acetate_fiber": 0.55,
             "polyester": 0.18,
             "silk": 1,
@@ -8546,7 +8546,7 @@
           "style": "zip"
         },
         "composition": {
-          "contton": 1
+          "cotton": 1
         },
         "waist": "belt",
         "leg": {
@@ -14825,7 +14825,7 @@
             "polyamide": 1
           },
           "surface": {
-            "contton": 0.5,
+            "cotton": 0.5,
             "polyester": 0.5
           }
         },
@@ -16642,7 +16642,7 @@
         "wash": "dry_clean",
         "composition": {
           "lining": null,
-          "sufface": {
+          "surface": {
             "cotton": 0.67,
             "lyocell_fiber": 0.3,
             "spandex": 0.03
@@ -17151,7 +17151,7 @@
         "wash": "dry_clean",
         "composition": {
           "lining": null,
-          "sufface": {
+          "surface": {
             "cotton": 0.67,
             "lyocell_fiber": 0.3,
             "spandex": 0.03
@@ -17583,7 +17583,7 @@
         "wash": "dry_clean",
         "composition": {
           "lining": null,
-          "sufface": {
+          "surface": {
             "leather": 1
           }
         },
