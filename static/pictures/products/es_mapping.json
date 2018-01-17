@@ -1,0 +1,177 @@
+{
+  "mappings":
+  {
+    "product":
+    {
+      "dynamic_templates": 
+      [
+        {
+          "size_quantity":
+          {
+            "match_mapping_type": "long",
+            "mapping":  {"type": "integer"}
+          }
+        },
+        {
+          "com_mapping": 
+          {
+            "path_match":  "specifications.composition.*",
+            "match_mapping_type": "double",
+            "mapping": { "type": "float" }
+          }
+        },
+        {
+          "surface_mapping":
+          {
+            "path_match": "specifications.composition.surface.*",
+            "mapping": { "type": "float" }
+          }
+        },
+        {
+          "lining_mapping":
+          {
+            "path_match": "specifications.composition.lining.*",
+            "mapping": { "type": "float" }
+          }
+        },
+        {
+          "sole_mapping":
+          {
+            "path_match": "specifications.composition.sole.*",
+            "mapping": { "type": "float" }
+          }
+        }
+      ],
+      "properties":
+      {
+        "typeId": { "type": "keyword"},
+        "sizeType": { "type": "keyword"},
+        "currency": { "type": "keyword" },
+        "pictures":
+        {
+          "type": "nested",
+          "properties": 
+          {
+            "name": { "type": "keyword" },
+            "tags": { "type": "keyword" }
+          }
+        },
+        "description": { "type": "text" },
+        "tags": { "type": "keyword"},
+        "quantity": { "type": "object" },
+        "price": { "type": "float" },
+        "transport":
+        {
+          "properties":
+          {
+            "description": { "type": "text" },
+            "duration":
+            {
+              "properties":
+              {
+                "min": { "type": "integer" },
+                "max": { "type": "integer" }
+              }
+            }
+          }
+        },
+        "type": { "type": "text" },
+        "color": { "type": "keyword" },
+        "discount": { "type": "float" },
+        "specifications":
+        {
+          "properties":
+          {
+            "collar": { "type": "keyword" },
+            "sleeves": { "type": "keyword" },
+            "wash": { "type": "keyword" },
+            "length": { "type": "keyword" },
+            "waist": { "type": "keyword" },
+            "hem": { "type": "keyword" },
+            "closure":
+            {
+              "properties":
+              {
+                "style": { "type": "keyword" },
+                "position": { "type": "keyword" }
+              }
+            },
+            "back_pocket" : 
+            {
+              "properties" : 
+              {
+                "number" : { "type": "integer" },
+                "tag" : { "type": "keyword" }
+              }
+            },
+            "front_pocket" :  
+            {
+              "properties" : 
+              {
+                "number" : { "type": "integer" },
+                "tag" : { "type": "keyword" }
+              }
+            },
+            "bottom_cuff" : 
+            {
+              "properties" : 
+              {
+                "tag" : { "type": "keyword" }
+              }
+            },
+            "lapels": { "type": "keyword" },
+            "front_buttons": 
+            {
+              "properties":
+              {
+                "breasted": { "type": "keyword" },
+                "button": { "type": "integer" }
+              }
+            },
+            "vents": { "type": "keyword" },
+            "sleeves_buttons": { "type": "integer" },
+            "size" : 
+            {
+              "properties" : 
+              {
+                "depth" : { "type": "float" },
+                "handle" : { "type": "float" },
+                "height" : { "type": "float" },
+                "strap" : { "type": "float" },
+                "width" : { "type": "float" }
+              }
+            }, 
+            "heel": 
+            {
+              "properties" :
+              {
+                "style": { "type": "keyword" },
+                "height": { "type": "float" }
+              }
+            }, 
+            "height" : { "type": "keyword" },
+            "leg": 
+            {
+              "properties":
+              {
+                "length": { "type": "keyword" },
+                "style": { "type": "keyword" }
+              }
+            },
+            "strap": { "type": "keyword" }, 
+            "platform" : { "type" : "integer" },
+            "composition" :
+            {
+              "properties":
+              {
+                "surface": { "type": "object" },
+                "lining": { "type": "object" },
+                "sole": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
