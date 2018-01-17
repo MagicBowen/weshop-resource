@@ -317,8 +317,8 @@
       },
       "specifications": {
         "closure": {
-          "postion": "top",
-          "style": "shoelace"
+          "position": "top",
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -405,7 +405,7 @@
         "season": "autumn_winter",
         "sleeves": "three_quarter",
         "closure": {
-          "postion": "front",
+          "position": "front",
           "style": "none"
         },
         "collar": "lapel",
@@ -769,7 +769,7 @@
         "feature": [],
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "leg": {
@@ -1018,7 +1018,7 @@
         ],
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "leg": {
@@ -1511,7 +1511,7 @@
         ],
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "leg": {
@@ -1842,7 +1842,7 @@
         ],
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "leg": {
@@ -2209,7 +2209,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "spandex": 0.03,
@@ -2400,7 +2400,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "wool": 1
@@ -2818,7 +2818,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -3395,7 +3395,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -3632,7 +3632,7 @@
       "specifications": {
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -3826,7 +3826,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "wool": 1
@@ -3904,7 +3904,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -4107,7 +4107,7 @@
         "collar": "hooded",
         "sleeves": "long",
         "closure": {
-          "postion": "front",
+          "position": "front",
           "style": "button"
         },
         "season": "spring_autumn",
@@ -4342,7 +4342,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -5955,7 +5955,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "round",
         "heel": {
@@ -6735,7 +6735,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "square",
         "heel": {
@@ -7606,7 +7606,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -8161,7 +8161,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "round",
         "heel": {
@@ -9005,7 +9005,7 @@
       "specifications": {
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -9886,7 +9886,7 @@
         },
         "feature": [],
         "closure": {
-          "postion": "side",
+          "position": "side",
           "style": "elastic"
         },
         "tip": "pointy",
@@ -10281,7 +10281,7 @@
         ],
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "leg": {
@@ -10799,8 +10799,8 @@
           "love_patch"
         ],
         "closure": {
-          "postion": "top",
-          "style": "shoelace"
+          "position": "top",
+          "style": "strap"
         },
         "tip": "round",
         "heel": null,
@@ -10867,7 +10867,7 @@
       },
       "specifications": {
         "closure": {
-          "postion": "top",
+          "position": "top",
           "style": "flip"
         },
         "composition": {
@@ -10940,7 +10940,7 @@
         },
         "feature": [],
         "closure": {
-          "postion": "front",
+          "position": "front",
           "style": "drawstring_elastic"
         },
         "waist": "elastic",
@@ -11283,7 +11283,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "denim": 1
@@ -11573,8 +11573,8 @@
       },
       "specifications": {
         "closure": {
-          "postion": "top",
-          "style": "shoelace"
+          "position": "top",
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -11670,7 +11670,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "platform": 2,
         "tip": "round",
@@ -11812,7 +11812,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -12009,7 +12009,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -12347,7 +12347,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "polyester": 0.64,
@@ -12697,7 +12697,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -12790,7 +12790,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "lining": null,
@@ -13014,7 +13014,7 @@
       },
       "specifications": {
         "closure": {
-          "postion": "top",
+          "position": "top",
           "style": "flip"
         },
         "composition": {
@@ -13234,7 +13234,7 @@
       },
       "specifications": {
         "closure": {
-          "postion": "top",
+          "position": "top",
           "style": "flip"
         },
         "composition": {
@@ -13402,7 +13402,7 @@
       "specifications": {
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "composition": {
           "cotton": 0.97,
@@ -13709,7 +13709,7 @@
       "specifications": {
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -13808,7 +13808,7 @@
         "length": "mid_calf",
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "waist": "none",
         "season": "summer"
@@ -15387,7 +15387,7 @@
         "length": "mini",
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "belt",
         "season": "summer"
@@ -15462,7 +15462,7 @@
       "specifications": {
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "composition": {
           "lining": {
@@ -15536,7 +15536,7 @@
         },
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         }
       },
       "tags": [
@@ -16166,7 +16166,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "square",
         "heel": {
@@ -16400,7 +16400,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "round",
         "heel": {
@@ -16651,7 +16651,7 @@
         "length": "long",
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "none",
         "season": "spring_summer"
@@ -17160,7 +17160,7 @@
         "length": "long",
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "none",
         "season": "spring_summer"
@@ -17266,7 +17266,7 @@
         "length": "long",
         "closure": {
           "position": "front",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "none",
         "leg": {
@@ -17451,7 +17451,7 @@
         "feature": [],
         "closure": {
           "position": "top",
-          "style": "shoelace"
+          "style": "strap"
         },
         "tip": "round",
         "heel": {
@@ -17593,7 +17593,7 @@
         "length": "long",
         "closure": {
           "position": "side",
-          "style": "button_zip"
+          "style": "["button", "zip"]"
         },
         "waist": "none",
         "season": "all"

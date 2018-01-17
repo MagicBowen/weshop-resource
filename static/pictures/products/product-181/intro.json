@@ -52,7 +52,7 @@
     "waist":"belt",
     "wash": "hand_wash",
     "closure": {
-      "style":"button_zip",
+      "style": ["button", "zip"],
       "position": "front"
     }
   }    
