@@ -88,7 +88,7 @@
     "waist":"none",
     "closure":
     {
-      "style": "button_zip",
+      "style": ["button", "zip"],
       "position": "front"
     }
   }    

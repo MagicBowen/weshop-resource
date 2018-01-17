@@ -71,7 +71,7 @@
     "waist":"none",
     "closure":
     {
-      "style": "button_zip",
+      "style": ["button", "zip"],
       "position": "front"
     },
     "wash": "dry_clean"  

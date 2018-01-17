@@ -74,7 +74,7 @@
     "waist": "belt",
     "closure": 
     {
-      "style":"button_zip",
+      "style": ["button", "zip"],
       "position": "front"
     },
     "leg":

@@ -83,7 +83,7 @@
     "wash": "dry_clean",
     "season": "summer",
     "closure": {
-      "style":"button_zip",
+      "style": ["button", "zip"],
       "position": "front"
     },
     "waist": "belt",

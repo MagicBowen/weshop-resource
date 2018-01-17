@@ -108,8 +108,8 @@
     "wash": "special_clean",
     "closure":
     {
-      "style": "shoelace",
-      "postion": "top"
+      "style": "strap",
+      "position": "top"
     },
     "tip": "round",
     "feature": 
