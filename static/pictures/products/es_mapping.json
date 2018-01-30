@@ -56,7 +56,11 @@
             "tags": { "type": "keyword" }
           }
         },
-        "description": { "type": "text" },
+        "description": { 
+        "type": "text",
+        "analyzer": "ik_smart",
+        "search_analyzer": "ik_smart"        
+        },
         "tags": { "type": "keyword"},
         "quantity": { "type": "object" },
         "price": { "type": "float" },
@@ -75,7 +79,11 @@
             }
           }
         },
-        "type": { "type": "text" },
+        "type": {
+          "type": "text",
+          "analyzer": "ik_smart",
+          "search_analyzer": "ik_smart"   
+        },
         "color": { "type": "keyword" },
         "discount": { "type": "float" },
         "specifications":
