@@ -1,6 +1,6 @@
 var getProductPage = async (ctx, next) => {
     var id = ctx.query.id;
-    ctx.response.body = `<h1>Product: ${id}</h1>`;
+    ctx.render('product.html', {id: id});
 };
 
 module.exports = {

@@ -1,8 +1,17 @@
 const Koa = require('koa');
+
 const bodyParser = require('koa-bodyparser');
+
 const controller = require('./controller');
 
+const templating = require('./templating');
+
+const staticFiles = require('./static-files');
+
 const app = new Koa();
+
+// const isProduction = process.env.NODE_ENV === 'production';
+const isProduction = false;
 
 
 // log middleware
@@ -15,8 +24,17 @@ app.use(async (ctx, next) => {
     console.log(`... response in duration ${execTime}ms`);
 });
 
+// deal static files:
+app.use(staticFiles('/static/', __dirname + '/static'));
+
 // parse request body:
 app.use(bodyParser());
+
+// add nunjucks as view:
+app.use(templating('views', {
+    noCache: !isProduction,
+    watch: !isProduction
+}));
 
 // add controllers:
 app.use(controller());
