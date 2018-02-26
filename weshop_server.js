@@ -48,6 +48,11 @@ router.get('/product/image', async (ctx, next) => {
     await fillImageToCtx(ctx, image);
 });
 
+router.get('/product/cover', async (ctx, next) => {
+    var productId = ctx.query.product;
+    var image = `./static/pictures/wechat_cover/${productId}-l.png`;
+    await fillImageToCtx(ctx, image);
+});
 
 // add router
 app.use(router.routes());
