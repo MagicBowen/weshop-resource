@@ -25,6 +25,6 @@ def generate_json(input_folder, json_file):
 
 
 if __name__ == '__main__':
-    json_file = './products.json'
+    json_file = '../../../models/products.json'
     input_folder = '.'
     generate_json(input_folder, json_file)
