@@ -13,7 +13,7 @@ const staticFiles = require('./static-files');
 const app = new Koa();
 
 // const isProduction = process.env.NODE_ENV === 'production';
-const isProduction = false;
+const isProduction = true;
 
 
 // log middleware
