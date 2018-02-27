@@ -6,6 +6,8 @@ const controller = require('./controller');
 
 const templating = require('./templating');
 
+const model = require('./model');
+
 const staticFiles = require('./static-files');
 
 const app = new Koa();
@@ -35,6 +37,9 @@ app.use(templating('views', {
     noCache: !isProduction,
     watch: !isProduction
 }));
+
+// add model to ctx:
+app.use(model('models'));
 
 // add controllers:
 app.use(controller());
