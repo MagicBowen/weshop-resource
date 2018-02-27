@@ -1,6 +1,6 @@
 const fs = require('mz/fs');
 
-const static_picture_path = 'resource/pictures'
+const static_picture_path = 'static/pictures'
 
 async function fillImageToCtx(ctx, image) {
     if (await fs.exists(image)) {
