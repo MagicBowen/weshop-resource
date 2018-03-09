@@ -41,6 +41,11 @@ app.use(templating('views', {
 // add model to ctx:
 app.use(model('models'));
 
+process.on('uncaughtException',function(err){
+        console.log('uncaughtException-->'+err.stack+'--'+new Date().toLocaleDateString()+'-'+new Date().toLocaleTimeString());
+        process.exit();
+    });
+
 // add controllers:
 app.use(controller());
 
